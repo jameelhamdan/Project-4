@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8b5b4087f23ad048b1c6a8138bd9d06, type: 3}
+  m_Name: ElectronicChip1Recipe
+  m_EditorClassIdentifier: 
+  Requirements:
+  - {fileID: 11400000, guid: eddd6bf80a7677d40bcf166b1cd7aeaf, type: 2}
+  - {fileID: 11400000, guid: b27976155286122478760d62bb6fe0a0, type: 2}
+  NumofRequiremtns: 0200000002000000
+  Result: {fileID: 11400000, guid: 2ae719ed942cecc45a5f414dbe7ea174, type: 2}
+  ManufactoringTime: 3
