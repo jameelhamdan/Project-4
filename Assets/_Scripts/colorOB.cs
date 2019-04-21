@@ -14,8 +14,6 @@ public class colorOB : MonoBehaviour {
 		ChangeColor(col);
 	}
 
-
-
 	void CallOnClick(){
 
 		Debug.Log("Called");
